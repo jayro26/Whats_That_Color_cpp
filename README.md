@@ -1,3 +1,3 @@
-# What-s-That-Color-
+# What's That Color?
 
 #Image Color Palette Extractor in C++

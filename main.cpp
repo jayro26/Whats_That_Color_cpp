@@ -169,7 +169,7 @@ void save_history(const string& image_name,
 
 void view_history() {
     if (history.empty()) {
-        cout << "  No history yet. Save some colors first!\n";
+        cout << "No history yet. Save some colors first!\n";
         return;
     }
 

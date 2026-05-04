@@ -211,7 +211,7 @@ void clear_history() {
 
 // ─── Main Menu ───────────────────────────────────────────────────────────────
 void print_menu(bool has_palette) {
-    cout << "\nWhat's That Color?\n";
+    cout << "What's That Color?\n";
     cout << "Image Color Palette Extractor\n";
     cout << "=============== Menu ================\n";
     cout << "1. Load image & extract colors\n";
